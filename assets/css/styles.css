@@ -109,7 +109,7 @@ button {
 }
 
 img {
-  max-width: auto;
+  max-width: 100%;
   height: auto;
 }
 
@@ -1111,7 +1111,7 @@ body.light-theme {
   }
 
   .home__img {
-    width: 320px;
+    width: 4000px;
   }
 
   .home__social-link {
